@@ -1,0 +1,5 @@
+-- Up 
+CREATE TABLE Test (id INTEGER PRIMARY KEY, text TEXT);
+ 
+-- Down 
+DROP TABLE Test;
